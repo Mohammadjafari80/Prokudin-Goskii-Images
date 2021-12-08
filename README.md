@@ -8,8 +8,8 @@ _Sergei Mikhailovich Prokudin-Gorskii_ was a color photographer before his time,
 The results of his effort can be seen at the online-exhibit **[The Empire That Was Russia](http://www.loc.gov/exhibits/empire/)**.
 
 <p float="left">
-  <img src="./assets/camera.jpg" height='600px' />
-  <img src="./assets/original_monastery.jpg" height='600px' /> 
+  <img src="./assets/camera.jpg" height='450px' />
+  <img src="./assets/original_monastery.jpg" height='450px' /> 
 </p>
 
 # Colorizing Prokudin-Goskii Images
